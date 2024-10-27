@@ -4,3 +4,4 @@ nltk
 numpy
 pyspellchecker
 scikit-learn
+textblob
